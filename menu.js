@@ -103,12 +103,12 @@ const macosTemplate = [
 	{
 		role: 'fileMenu',
 		submenu: [
-			{
+			/*{
 				label: 'Custom'
 			},
 			{
 				type: 'separator'
-			},
+			},*/
 			{
 				role: 'close'
 			}
@@ -134,7 +134,7 @@ const otherTemplate = [
 	{
 		role: 'fileMenu',
 		submenu: [
-			{
+			/*{
 				label: 'Custom'
 			},
 			{
@@ -149,7 +149,7 @@ const otherTemplate = [
 			},
 			{
 				type: 'separator'
-			},
+			},*/
 			{
 				role: 'quit'
 			}
